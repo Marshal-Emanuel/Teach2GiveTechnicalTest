@@ -1,6 +1,6 @@
+// Write a program to generate the Fibonacci sequence up to 100.
 #include<iostream>
 using namespace std;
-// Write a program to generate the Fibonacci sequence up to 100.
 int main(){
     int num1 = 0;
     int num2 = 1;
