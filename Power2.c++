@@ -2,6 +2,11 @@
 using namespace std;
 int main(){
     int number;
+//      Power of Two
+// Write a program that takes an integer as input and returns true if the input is a power of two.
+// Examples: 
+// 8=> returns true
+// 6=> returns false
 
     cout << "**Power of 2 checker**" << endl;
     cout << "Enter a number to check: ";
